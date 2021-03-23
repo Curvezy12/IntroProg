@@ -6,7 +6,10 @@ namespace AlternatingCaps
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.Write("Please type what you would like to alternate: ");
+            string word = Console.ReadLine();
+
+            
         }
     }
 }
