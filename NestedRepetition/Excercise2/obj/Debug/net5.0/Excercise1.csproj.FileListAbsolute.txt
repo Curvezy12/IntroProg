@@ -1,0 +1,16 @@
+C:\Users\v1gho\Documents\GitHub\IntroProg\NestedRepetition\Excercise2\bin\Debug\net5.0\Excercise1.exe
+C:\Users\v1gho\Documents\GitHub\IntroProg\NestedRepetition\Excercise2\bin\Debug\net5.0\Excercise1.deps.json
+C:\Users\v1gho\Documents\GitHub\IntroProg\NestedRepetition\Excercise2\bin\Debug\net5.0\Excercise1.runtimeconfig.json
+C:\Users\v1gho\Documents\GitHub\IntroProg\NestedRepetition\Excercise2\bin\Debug\net5.0\Excercise1.runtimeconfig.dev.json
+C:\Users\v1gho\Documents\GitHub\IntroProg\NestedRepetition\Excercise2\bin\Debug\net5.0\Excercise1.dll
+C:\Users\v1gho\Documents\GitHub\IntroProg\NestedRepetition\Excercise2\bin\Debug\net5.0\ref\Excercise1.dll
+C:\Users\v1gho\Documents\GitHub\IntroProg\NestedRepetition\Excercise2\bin\Debug\net5.0\Excercise1.pdb
+C:\Users\v1gho\Documents\GitHub\IntroProg\NestedRepetition\Excercise2\obj\Debug\net5.0\Excercise1.csprojAssemblyReference.cache
+C:\Users\v1gho\Documents\GitHub\IntroProg\NestedRepetition\Excercise2\obj\Debug\net5.0\Excercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v1gho\Documents\GitHub\IntroProg\NestedRepetition\Excercise2\obj\Debug\net5.0\Excercise1.AssemblyInfoInputs.cache
+C:\Users\v1gho\Documents\GitHub\IntroProg\NestedRepetition\Excercise2\obj\Debug\net5.0\Excercise1.AssemblyInfo.cs
+C:\Users\v1gho\Documents\GitHub\IntroProg\NestedRepetition\Excercise2\obj\Debug\net5.0\Excercise1.csproj.CoreCompileInputs.cache
+C:\Users\v1gho\Documents\GitHub\IntroProg\NestedRepetition\Excercise2\obj\Debug\net5.0\Excercise1.dll
+C:\Users\v1gho\Documents\GitHub\IntroProg\NestedRepetition\Excercise2\obj\Debug\net5.0\ref\Excercise1.dll
+C:\Users\v1gho\Documents\GitHub\IntroProg\NestedRepetition\Excercise2\obj\Debug\net5.0\Excercise1.pdb
+C:\Users\v1gho\Documents\GitHub\IntroProg\NestedRepetition\Excercise2\obj\Debug\net5.0\Excercise1.genruntimeconfig.cache

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\v1gho\\Documents\\GitHub\\IntroProg\\NestedRepetition\\NestedRepetition.csproj",
-      "projectName": "NestedRepetition",
-      "projectPath": "C:\\Users\\v1gho\\Documents\\GitHub\\IntroProg\\NestedRepetition\\NestedRepetition.csproj",
+      "projectUniqueName": "C:\\Users\\v1gho\\Documents\\GitHub\\IntroProg\\NestedRepetition\\Excercise2\\Excercise1.csproj",
+      "projectName": "Excercise1",
+      "projectPath": "C:\\Users\\v1gho\\Documents\\GitHub\\IntroProg\\NestedRepetition\\Excercise2\\Excercise1.csproj",
       "packagesPath": "C:\\Users\\v1gho\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\v1gho\\Documents\\GitHub\\IntroProg\\NestedRepetition\\obj\\",
+      "outputPath": "C:\\Users\\v1gho\\Documents\\GitHub\\IntroProg\\NestedRepetition\\Excercise2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft\\Xamarin\\NuGet\\"
