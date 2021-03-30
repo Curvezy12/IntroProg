@@ -8,24 +8,31 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Curvezy\\.nuget\\packages\\": {}
+    "C:\\Users\\v1gho\\.nuget\\packages\\": {},
+    "D:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Curvezy\\Documents\\GitHub\\IntroProg\\GuessTheNumber\\GuessTheNumber.csproj",
+      "projectUniqueName": "C:\\Users\\v1gho\\Documents\\GitHub\\IntroProg\\GuessTheNumber\\GuessTheNumber.csproj",
       "projectName": "GuessTheNumber",
-      "projectPath": "C:\\Users\\Curvezy\\Documents\\GitHub\\IntroProg\\GuessTheNumber\\GuessTheNumber.csproj",
-      "packagesPath": "C:\\Users\\Curvezy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Curvezy\\Documents\\GitHub\\IntroProg\\GuessTheNumber\\obj\\",
+      "projectPath": "C:\\Users\\v1gho\\Documents\\GitHub\\IntroProg\\GuessTheNumber\\GuessTheNumber.csproj",
+      "packagesPath": "C:\\Users\\v1gho\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\v1gho\\Documents\\GitHub\\IntroProg\\GuessTheNumber\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "D:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Curvezy\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\v1gho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -58,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
