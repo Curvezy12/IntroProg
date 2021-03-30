@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\v1gho\\Documents\\GitHub\\IntroProg\\GuessTheNumber\\GuessTheNumber.csproj",
-      "projectName": "GuessTheNumber",
-      "projectPath": "C:\\Users\\v1gho\\Documents\\GitHub\\IntroProg\\GuessTheNumber\\GuessTheNumber.csproj",
+      "projectUniqueName": "C:\\Users\\v1gho\\Documents\\GitHub\\IntroProg\\FizzBuzz\\FizzBuzz.csproj",
+      "projectName": "FizzBuzz",
+      "projectPath": "C:\\Users\\v1gho\\Documents\\GitHub\\IntroProg\\FizzBuzz\\FizzBuzz.csproj",
       "packagesPath": "C:\\Users\\v1gho\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\v1gho\\Documents\\GitHub\\IntroProg\\GuessTheNumber\\obj\\",
+      "outputPath": "C:\\Users\\v1gho\\Documents\\GitHub\\IntroProg\\FizzBuzz\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft\\Xamarin\\NuGet\\"
