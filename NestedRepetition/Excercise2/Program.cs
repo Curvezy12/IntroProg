@@ -4,13 +4,16 @@ namespace Excercise1 {
     class Program {
         static void Main(string[] args) {
             
-            int amount = 0;
+            int h = 0;
 
-            while(amount < 5) {
-                Console.WriteLine("x");
-                Console.WriteLine();
-                amount++;
-
+            while(h < 5) {
+                h++;
+                int j = h;
+                while(j < 6) {
+                    Console.Write("x");
+                    j++;
+                }
+            Console.WriteLine();
             }
         }
     }
