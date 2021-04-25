@@ -7,21 +7,19 @@ namespace NestedRepetition {
             Console.WriteLine("Enter Name: ");
             string name = Console.ReadLine();
 
+            Console.WriteLine("How many times woudl you like to print it?");
+            string amount = Console.ReadLine();
+
             int counter = 0;
 
-            while (counter < 10) {
+            int.TryParse(amount, out int amount_int);
 
-                counter = counter + 1;
-                int counter2 = counter;
+            while (counter < amount_int) {
 
-                while (counter2 < 5) {
-
-                    Console.WriteLine(name);
-                    counter2 = counter2 + 1;
-                }   
-                Console.WriteLine();
+                Console.WriteLine(name);
+                counter++;
+               
             }
-            Console.WriteLine("Goodbye " + name);
         }   
     }
 }

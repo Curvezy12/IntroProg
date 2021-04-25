@@ -6,7 +6,6 @@ namespace VariablesTask {
                 // Gathering Information
                 String Firstname;
                 String Surname;
-                String StudentID;
                 String YOB;
                 String CurrentYear;
 
@@ -17,7 +16,7 @@ namespace VariablesTask {
                 Surname = Console.ReadLine();
                 }
                 Console.WriteLine("StudentID: "); {
-                StudentID = Console.ReadLine();
+                Console.ReadLine();
                 } 
                 Console.WriteLine("Year Of Birth: "); {
                 YOB = Console.ReadLine();
