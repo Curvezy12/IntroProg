@@ -1,0 +1,16 @@
+C:\Users\v1gho\Documents\GitHub\IntroProg\Week2\Excercise2\bin\Debug\net5.0\Excercise2.exe
+C:\Users\v1gho\Documents\GitHub\IntroProg\Week2\Excercise2\bin\Debug\net5.0\Excercise2.deps.json
+C:\Users\v1gho\Documents\GitHub\IntroProg\Week2\Excercise2\bin\Debug\net5.0\Excercise2.runtimeconfig.json
+C:\Users\v1gho\Documents\GitHub\IntroProg\Week2\Excercise2\bin\Debug\net5.0\Excercise2.runtimeconfig.dev.json
+C:\Users\v1gho\Documents\GitHub\IntroProg\Week2\Excercise2\bin\Debug\net5.0\Excercise2.dll
+C:\Users\v1gho\Documents\GitHub\IntroProg\Week2\Excercise2\bin\Debug\net5.0\ref\Excercise2.dll
+C:\Users\v1gho\Documents\GitHub\IntroProg\Week2\Excercise2\bin\Debug\net5.0\Excercise2.pdb
+C:\Users\v1gho\Documents\GitHub\IntroProg\Week2\Excercise2\obj\Debug\net5.0\Excercise2.csprojAssemblyReference.cache
+C:\Users\v1gho\Documents\GitHub\IntroProg\Week2\Excercise2\obj\Debug\net5.0\Excercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v1gho\Documents\GitHub\IntroProg\Week2\Excercise2\obj\Debug\net5.0\Excercise2.AssemblyInfoInputs.cache
+C:\Users\v1gho\Documents\GitHub\IntroProg\Week2\Excercise2\obj\Debug\net5.0\Excercise2.AssemblyInfo.cs
+C:\Users\v1gho\Documents\GitHub\IntroProg\Week2\Excercise2\obj\Debug\net5.0\Excercise2.csproj.CoreCompileInputs.cache
+C:\Users\v1gho\Documents\GitHub\IntroProg\Week2\Excercise2\obj\Debug\net5.0\Excercise2.dll
+C:\Users\v1gho\Documents\GitHub\IntroProg\Week2\Excercise2\obj\Debug\net5.0\ref\Excercise2.dll
+C:\Users\v1gho\Documents\GitHub\IntroProg\Week2\Excercise2\obj\Debug\net5.0\Excercise2.pdb
+C:\Users\v1gho\Documents\GitHub\IntroProg\Week2\Excercise2\obj\Debug\net5.0\Excercise2.genruntimeconfig.cache

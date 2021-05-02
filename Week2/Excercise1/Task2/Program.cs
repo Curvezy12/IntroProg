@@ -16,7 +16,6 @@ namespace Task2 {
             } else {
                 Console.WriteLine(Gender + " is not an Adult");
             }
-
         }
     }
 }

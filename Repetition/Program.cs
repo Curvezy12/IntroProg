@@ -1,9 +1,7 @@
 ﻿using System;
 
 namespace Repetition {
-
     class Program {
-
         static void Main(string[] args) {
 
             Console.Write("Enter Name: ");
