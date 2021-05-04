@@ -1,0 +1,16 @@
+C:\Users\v1gho\Documents\GitHub\IntroProg\AssessmentTask1\bin\Debug\net5.0\AssessmentTask1.exe
+C:\Users\v1gho\Documents\GitHub\IntroProg\AssessmentTask1\bin\Debug\net5.0\AssessmentTask1.deps.json
+C:\Users\v1gho\Documents\GitHub\IntroProg\AssessmentTask1\bin\Debug\net5.0\AssessmentTask1.runtimeconfig.json
+C:\Users\v1gho\Documents\GitHub\IntroProg\AssessmentTask1\bin\Debug\net5.0\AssessmentTask1.runtimeconfig.dev.json
+C:\Users\v1gho\Documents\GitHub\IntroProg\AssessmentTask1\bin\Debug\net5.0\AssessmentTask1.dll
+C:\Users\v1gho\Documents\GitHub\IntroProg\AssessmentTask1\bin\Debug\net5.0\ref\AssessmentTask1.dll
+C:\Users\v1gho\Documents\GitHub\IntroProg\AssessmentTask1\bin\Debug\net5.0\AssessmentTask1.pdb
+C:\Users\v1gho\Documents\GitHub\IntroProg\AssessmentTask1\obj\Debug\net5.0\AssessmentTask1.csprojAssemblyReference.cache
+C:\Users\v1gho\Documents\GitHub\IntroProg\AssessmentTask1\obj\Debug\net5.0\AssessmentTask1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v1gho\Documents\GitHub\IntroProg\AssessmentTask1\obj\Debug\net5.0\AssessmentTask1.AssemblyInfoInputs.cache
+C:\Users\v1gho\Documents\GitHub\IntroProg\AssessmentTask1\obj\Debug\net5.0\AssessmentTask1.AssemblyInfo.cs
+C:\Users\v1gho\Documents\GitHub\IntroProg\AssessmentTask1\obj\Debug\net5.0\AssessmentTask1.csproj.CoreCompileInputs.cache
+C:\Users\v1gho\Documents\GitHub\IntroProg\AssessmentTask1\obj\Debug\net5.0\AssessmentTask1.dll
+C:\Users\v1gho\Documents\GitHub\IntroProg\AssessmentTask1\obj\Debug\net5.0\ref\AssessmentTask1.dll
+C:\Users\v1gho\Documents\GitHub\IntroProg\AssessmentTask1\obj\Debug\net5.0\AssessmentTask1.pdb
+C:\Users\v1gho\Documents\GitHub\IntroProg\AssessmentTask1\obj\Debug\net5.0\AssessmentTask1.genruntimeconfig.cache
