@@ -1,11 +1,9 @@
 ﻿using System;
 
-namespace AssessmentTask1
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
+namespace AssessmentTask1 {
+    class Program {
+        static void Main(string[] args) {
+            
             Console.WriteLine("Would you like to roll the dice?");
             string Start = Console.ReadLine();
 
@@ -18,7 +16,7 @@ namespace AssessmentTask1
 
                 Random random = new Random();
 
-                int sum = 0;
+                int Sum = 0;
                 int Num = NumOfRolls;
                 int[] DiceRoll;
                 float Average = 0.0F;
