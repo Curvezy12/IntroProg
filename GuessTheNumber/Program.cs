@@ -32,7 +32,7 @@ namespace GuessTheNumber {
             }
             Console.WriteLine("Game Over.");
             if (WoL == 1) {
-                Console.WriteLine("You Won!\nThat took " + guesses + " guesse(s).");
+                Console.WriteLine("You Won!\nThat took " + guesses + " guess(es).");
             } else {
                 Console.WriteLine("You Lose.\nThe number was " + Answer);
             } 

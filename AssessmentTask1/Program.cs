@@ -26,12 +26,10 @@ namespace AssessmentTask1 {
                         Sum +=  DiceRoll[i];
                     }
                     Average = (float)Sum / Num;
-                    if (Start == "yes") {
-                        Console.WriteLine("The Dice rolled a " + string.Join(", ", DiceRoll));
-                        Console.WriteLine("The Average was " + Average);
-                        Console.WriteLine("The total was " + Sum);
-                    }
-                Console.WriteLine("Would you like to role again?");
+                    Console.WriteLine("The Dice rolled a " + string.Join(", ", DiceRoll));
+                    Console.WriteLine("The Average was " + Average);
+                    Console.WriteLine("The total was " + Sum);
+                Console.WriteLine("Would you like to roll again?");
                 Start = Console.ReadLine();
             }
             Console.WriteLine("Okay Goodbye.");
