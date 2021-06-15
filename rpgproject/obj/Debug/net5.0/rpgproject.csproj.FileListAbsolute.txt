@@ -1,0 +1,5 @@
+C:\Users\Curvezy\Documents\GitHub\IntroProg\rpgproject\obj\Debug\net5.0\rpgproject.csprojAssemblyReference.cache
+C:\Users\Curvezy\Documents\GitHub\IntroProg\rpgproject\obj\Debug\net5.0\rpgproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Curvezy\Documents\GitHub\IntroProg\rpgproject\obj\Debug\net5.0\rpgproject.AssemblyInfoInputs.cache
+C:\Users\Curvezy\Documents\GitHub\IntroProg\rpgproject\obj\Debug\net5.0\rpgproject.AssemblyInfo.cs
+C:\Users\Curvezy\Documents\GitHub\IntroProg\rpgproject\obj\Debug\net5.0\rpgproject.csproj.CoreCompileInputs.cache
