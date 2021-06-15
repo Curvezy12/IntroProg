@@ -9,7 +9,7 @@ namespace rpgproject.models
         public int WeightCapacity { get; set; }
         public List<Item> Items { get; set; }
         
-        public Inventory(int weightCapacity, List<Item> items)
+        public Inventory(int weightCapacity)
         {
             this.WeightCapacity = weightCapacity;
             this.Items = new List<Item>();
