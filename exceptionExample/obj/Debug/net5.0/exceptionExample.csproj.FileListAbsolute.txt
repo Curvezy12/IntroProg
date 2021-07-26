@@ -1,0 +1,16 @@
+C:\Users\Curvezy\Documents\GitHub\IntroProg\exceptionExample\bin\Debug\net5.0\exceptionExample.exe
+C:\Users\Curvezy\Documents\GitHub\IntroProg\exceptionExample\bin\Debug\net5.0\exceptionExample.deps.json
+C:\Users\Curvezy\Documents\GitHub\IntroProg\exceptionExample\bin\Debug\net5.0\exceptionExample.runtimeconfig.json
+C:\Users\Curvezy\Documents\GitHub\IntroProg\exceptionExample\bin\Debug\net5.0\exceptionExample.runtimeconfig.dev.json
+C:\Users\Curvezy\Documents\GitHub\IntroProg\exceptionExample\bin\Debug\net5.0\exceptionExample.dll
+C:\Users\Curvezy\Documents\GitHub\IntroProg\exceptionExample\bin\Debug\net5.0\ref\exceptionExample.dll
+C:\Users\Curvezy\Documents\GitHub\IntroProg\exceptionExample\bin\Debug\net5.0\exceptionExample.pdb
+C:\Users\Curvezy\Documents\GitHub\IntroProg\exceptionExample\obj\Debug\net5.0\exceptionExample.csproj.AssemblyReference.cache
+C:\Users\Curvezy\Documents\GitHub\IntroProg\exceptionExample\obj\Debug\net5.0\exceptionExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Curvezy\Documents\GitHub\IntroProg\exceptionExample\obj\Debug\net5.0\exceptionExample.AssemblyInfoInputs.cache
+C:\Users\Curvezy\Documents\GitHub\IntroProg\exceptionExample\obj\Debug\net5.0\exceptionExample.AssemblyInfo.cs
+C:\Users\Curvezy\Documents\GitHub\IntroProg\exceptionExample\obj\Debug\net5.0\exceptionExample.csproj.CoreCompileInputs.cache
+C:\Users\Curvezy\Documents\GitHub\IntroProg\exceptionExample\obj\Debug\net5.0\exceptionExample.dll
+C:\Users\Curvezy\Documents\GitHub\IntroProg\exceptionExample\obj\Debug\net5.0\ref\exceptionExample.dll
+C:\Users\Curvezy\Documents\GitHub\IntroProg\exceptionExample\obj\Debug\net5.0\exceptionExample.pdb
+C:\Users\Curvezy\Documents\GitHub\IntroProg\exceptionExample\obj\Debug\net5.0\exceptionExample.genruntimeconfig.cache
