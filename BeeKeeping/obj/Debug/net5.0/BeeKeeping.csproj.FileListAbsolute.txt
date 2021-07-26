@@ -1,0 +1,16 @@
+C:\Users\Curvezy\Documents\GitHub\IntroProg\BeeKeeping\bin\Debug\net5.0\BeeKeeping.exe
+C:\Users\Curvezy\Documents\GitHub\IntroProg\BeeKeeping\bin\Debug\net5.0\BeeKeeping.deps.json
+C:\Users\Curvezy\Documents\GitHub\IntroProg\BeeKeeping\bin\Debug\net5.0\BeeKeeping.runtimeconfig.json
+C:\Users\Curvezy\Documents\GitHub\IntroProg\BeeKeeping\bin\Debug\net5.0\BeeKeeping.runtimeconfig.dev.json
+C:\Users\Curvezy\Documents\GitHub\IntroProg\BeeKeeping\bin\Debug\net5.0\BeeKeeping.dll
+C:\Users\Curvezy\Documents\GitHub\IntroProg\BeeKeeping\bin\Debug\net5.0\ref\BeeKeeping.dll
+C:\Users\Curvezy\Documents\GitHub\IntroProg\BeeKeeping\bin\Debug\net5.0\BeeKeeping.pdb
+C:\Users\Curvezy\Documents\GitHub\IntroProg\BeeKeeping\obj\Debug\net5.0\BeeKeeping.csproj.AssemblyReference.cache
+C:\Users\Curvezy\Documents\GitHub\IntroProg\BeeKeeping\obj\Debug\net5.0\BeeKeeping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Curvezy\Documents\GitHub\IntroProg\BeeKeeping\obj\Debug\net5.0\BeeKeeping.AssemblyInfoInputs.cache
+C:\Users\Curvezy\Documents\GitHub\IntroProg\BeeKeeping\obj\Debug\net5.0\BeeKeeping.AssemblyInfo.cs
+C:\Users\Curvezy\Documents\GitHub\IntroProg\BeeKeeping\obj\Debug\net5.0\BeeKeeping.csproj.CoreCompileInputs.cache
+C:\Users\Curvezy\Documents\GitHub\IntroProg\BeeKeeping\obj\Debug\net5.0\BeeKeeping.dll
+C:\Users\Curvezy\Documents\GitHub\IntroProg\BeeKeeping\obj\Debug\net5.0\ref\BeeKeeping.dll
+C:\Users\Curvezy\Documents\GitHub\IntroProg\BeeKeeping\obj\Debug\net5.0\BeeKeeping.pdb
+C:\Users\Curvezy\Documents\GitHub\IntroProg\BeeKeeping\obj\Debug\net5.0\BeeKeeping.genruntimeconfig.cache
