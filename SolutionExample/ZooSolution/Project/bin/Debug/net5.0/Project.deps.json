@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Project/1.0.0": {
+        "dependencies": {
+          "AnimalClass": "1.0.0",
+          "StaffClass": "1.0.0"
+        },
+        "runtime": {
+          "Project.dll": {}
+        }
+      },
+      "AnimalClass/1.0.0": {
+        "runtime": {
+          "AnimalClass.dll": {}
+        }
+      },
+      "StaffClass/1.0.0": {
+        "runtime": {
+          "StaffClass.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Project/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AnimalClass/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StaffClass/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

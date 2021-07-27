@@ -1,0 +1,12 @@
+C:\Users\Curvezy\Documents\GitHub\IntroProg\SolutionExample\ZooSolution\AnimalClass\bin\Debug\net5.0\AnimalClass.deps.json
+C:\Users\Curvezy\Documents\GitHub\IntroProg\SolutionExample\ZooSolution\AnimalClass\bin\Debug\net5.0\AnimalClass.dll
+C:\Users\Curvezy\Documents\GitHub\IntroProg\SolutionExample\ZooSolution\AnimalClass\bin\Debug\net5.0\ref\AnimalClass.dll
+C:\Users\Curvezy\Documents\GitHub\IntroProg\SolutionExample\ZooSolution\AnimalClass\bin\Debug\net5.0\AnimalClass.pdb
+C:\Users\Curvezy\Documents\GitHub\IntroProg\SolutionExample\ZooSolution\AnimalClass\obj\Debug\net5.0\AnimalClass.csproj.AssemblyReference.cache
+C:\Users\Curvezy\Documents\GitHub\IntroProg\SolutionExample\ZooSolution\AnimalClass\obj\Debug\net5.0\AnimalClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Curvezy\Documents\GitHub\IntroProg\SolutionExample\ZooSolution\AnimalClass\obj\Debug\net5.0\AnimalClass.AssemblyInfoInputs.cache
+C:\Users\Curvezy\Documents\GitHub\IntroProg\SolutionExample\ZooSolution\AnimalClass\obj\Debug\net5.0\AnimalClass.AssemblyInfo.cs
+C:\Users\Curvezy\Documents\GitHub\IntroProg\SolutionExample\ZooSolution\AnimalClass\obj\Debug\net5.0\AnimalClass.csproj.CoreCompileInputs.cache
+C:\Users\Curvezy\Documents\GitHub\IntroProg\SolutionExample\ZooSolution\AnimalClass\obj\Debug\net5.0\AnimalClass.dll
+C:\Users\Curvezy\Documents\GitHub\IntroProg\SolutionExample\ZooSolution\AnimalClass\obj\Debug\net5.0\ref\AnimalClass.dll
+C:\Users\Curvezy\Documents\GitHub\IntroProg\SolutionExample\ZooSolution\AnimalClass\obj\Debug\net5.0\AnimalClass.pdb
